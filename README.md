@@ -1,2 +1,1 @@
-# latihan-branch
-## contoh 2
+# teksnya beda
