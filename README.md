@@ -1,2 +1,2 @@
 # teksnya beda
-contoh!
+contoh?
